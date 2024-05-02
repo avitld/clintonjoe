@@ -1,0 +1,45 @@
+body {
+    padding: 20px;
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+    font-size: 1.35rem;
+}
+
+#pg {
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: left;
+}
+
+img {
+    max-width: 500px;
+    border-radius: 18px;
+}
+header {
+    margin-bottom: 20px;
+    border-bottom: 2px solid gainsboro;
+    padding-bottom: 8px;
+}
+
+header a {
+    color: aliceblue;
+    margin: 7px;
+}
+
+#quote {
+    font-style: italic;
+}
+
+span {
+    color:darkgrey ;
+    font-size: 1rem;
+}
+
+#sean {
+    max-width: 100%;
+}
+
+#ses {
+    max-width: 250px;
+}
